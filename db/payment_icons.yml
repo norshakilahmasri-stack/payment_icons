@@ -1,3 +1,7 @@
+- 
+  name: sppxspllogoincube
+  label: ShopeePay & SPayLater
+  group: wallets
 -
   name: tpgpay
   label: TPG Pay
